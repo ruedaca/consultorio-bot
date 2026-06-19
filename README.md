@@ -8,16 +8,16 @@ Tecnicatura Universitaria en Programación — UTN
 Simulador de chatbot por consola que automatiza el proceso de solicitud de turnos médicos del Consultorio San Martín. El sistema permite reservar turnos, registrar pacientes nuevos y solicitar avisos de disponibilidad, interactuando mediante respuestas de texto simples.
 
 ## Estructura del proyecto
-consultorio_bot/
 
-├── data/
-│   └── BD_Consultorio_SanMartin.xlsx
-├── logic/
-│   ├── init.py
-│   └── consultas.py
-├── db.py
-├── main.py
-└── README.md
+    consultorio_bot/
+    ├── data/
+    │   └── BD_Consultorio_SanMartin.xlsx
+    ├── logic/
+    │   ├── __init__.py
+    │   └── consultas.py
+    ├── db.py
+    ├── main.py
+    └── README.md
 
 ## Requisitos
 
